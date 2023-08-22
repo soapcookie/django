@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="818cf064-1b95-40c5-85a9-ff18d395f9c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second/templates/second/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/first/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstdjanog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstdjanog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstdjanog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstdjanog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/third/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/templates/third/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/third/templates/third/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/templates/third/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/third/templates/third/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/templates/third/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/third/templates/third/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/templates/third/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/third/templates/third/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/templates/third/review_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/third/templates/third/review_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/templates/third/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/third/templates/third/update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/third/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/third/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
